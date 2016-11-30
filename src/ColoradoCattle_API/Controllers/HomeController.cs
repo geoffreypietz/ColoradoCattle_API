@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ColoradoCattle_API.Controllers
-{
+{    
     public class HomeController : Controller
     {
         public IActionResult Index()
